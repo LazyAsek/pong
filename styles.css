@@ -1,0 +1,36 @@
+
+.grid{
+    position:absolute;
+    width: 600px;
+    height: 300px;
+    border: 1px black solid;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.line{
+    position:absolute;
+    width: 300px;
+    height: 300px;
+    border: 1px black dotted;
+    border-top: white ;
+    border-left: white;
+    border-bottom: white;
+}
+
+.user{
+    position:absolute;
+    width: 10px;
+    height: 50px;
+    background-color: red;
+}
+
+.ball{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: blueviolet;
+    left: 295px;
+    top: 145px;
+}
